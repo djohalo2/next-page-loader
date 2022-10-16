@@ -1,5 +1,7 @@
 # Next Page Loader
 
+[![npm version](https://badge.fury.io/js/next-page-loader.svg)](https://badge.fury.io/js/next-page-loader)
+
 A lightweight page loader for Next.js to give your users subtle feedback on navigating through your pages.
 
 ## Getting started
